@@ -1,0 +1,40 @@
+Bleu-1: 0.576
+Best Bleu-1 example: ['little girl in a tree .']
+Worst Bleu-1 example: ['woman in a black shirt and a woman in a black and white and white shirt .']
+Best Bleu-1 reference: ['A girl in a flowered dress peaking through some leaves .', 'A girl peeks through the leaves on a tree .', 'a girl peeks through the green leaves .', 'A young girl peers through the green foliage .', "A young girl 's face looking through leaves ."]
+Worst Bleu-1 reference: ['A couple in an embrace looking at each other .', 'A man and woman are dancing nearby others who are doing the same .', 'A man in a white print shirt and a woman in a black dress dancing .', 'A man in a white shirt is dancing with a woman in black .', 'The red haired woman in the black dress has her arms around a man in white .']
+Bleu-2: 0.396
+Best Bleu-2 example: ['woman wearing a red shirt and sunglasses is standing in the man .']
+Worst Bleu-2 example: ['woman in a black shirt and a woman in a black and white and white shirt .']
+Best Bleu-2 reference: ['A girl in a red shirt takes a picture on a phone .', 'A woman in a low cut shirt takes a picture with her cellphone .', 'A woman in a red shirt holding a cellphone .', 'A woman taking pictures with her phone .', 'The girl in sunglasses holds up her phone to take a picture of something .']
+Worst Bleu-2 reference: ['A couple in an embrace looking at each other .', 'A man and woman are dancing nearby others who are doing the same .', 'A man in a white print shirt and a woman in a black dress dancing .', 'A man in a white shirt is dancing with a woman in black .', 'The red haired woman in the black dress has her arms around a man in white .']
+Bleu-3: 0.258
+Best Bleu-3 example: ['woman wearing a red shirt and sunglasses is standing in the man .']
+Worst Bleu-3 example: ['woman in a black shirt and a woman in a black and white and white shirt .']
+Best Bleu-3 reference: ['A girl in a red shirt takes a picture on a phone .', 'A woman in a low cut shirt takes a picture with her cellphone .', 'A woman in a red shirt holding a cellphone .', 'A woman taking pictures with her phone .', 'The girl in sunglasses holds up her phone to take a picture of something .']
+Worst Bleu-3 reference: ['A couple in an embrace looking at each other .', 'A man and woman are dancing nearby others who are doing the same .', 'A man in a white print shirt and a woman in a black dress dancing .', 'A man in a white shirt is dancing with a woman in black .', 'The red haired woman in the black dress has her arms around a man in white .']
+Bleu-4: 0.165
+Best Bleu-4 example: ['woman wearing a red shirt and sunglasses is standing in the man .']
+Worst Bleu-4 example: ['woman in a black shirt and a woman in a black and white and white shirt .']
+Best Bleu-4 reference: ['A girl in a red shirt takes a picture on a phone .', 'A woman in a low cut shirt takes a picture with her cellphone .', 'A woman in a red shirt holding a cellphone .', 'A woman taking pictures with her phone .', 'The girl in sunglasses holds up her phone to take a picture of something .']
+Worst Bleu-4 reference: ['A couple in an embrace looking at each other .', 'A man and woman are dancing nearby others who are doing the same .', 'A man in a white print shirt and a woman in a black dress dancing .', 'A man in a white shirt is dancing with a woman in black .', 'The red haired woman in the black dress has her arms around a man in white .']
+Rouge: 0.396
+Best Rouge example: ['white dog jumps in a field .']
+Worst Rouge example: ['woman in a black shirt and a woman in a black and white and white shirt .']
+Best Rouge-4 reference: ['A dog is jumping to catch a Frisbee and casts a perfect shadow .', 'A dog jumps and catches a Frisbee in the grass .', 'A dog jumps and catches a toy .', 'A white dog leaps to catch an object .', 'A yellow lab jumping up to catch a toy .']
+Worst Rouge-4 reference: ['A couple in an embrace looking at each other .', 'A man and woman are dancing nearby others who are doing the same .', 'A man in a white print shirt and a woman in a black dress dancing .', 'A man in a white shirt is dancing with a woman in black .', 'The red haired woman in the black dress has her arms around a man in white .']
+METEOR: 0.182
+Best METEOR example: ['man is climbing a rock wall .']
+Worst METEOR example: ['young boy in a red shirt and blue shorts is jumping over a grassy hill .']
+Best METEOR-4 reference: ['A rock climber repels off a rocky wall .', 'A woman climbing a rock cliff .', 'A woman in jeans rock climbing .', 'The woman is holding onto a huge rock and has red string around her .', 'Woman goes rock climbing .']
+Worst METEOR-4 reference: ['A person in a red striped hooded sweatshirt and jeans shorts walking on a grassy hill .', 'A person wearing a striped shirt is walking on a hill .', 'A woman in a striped sweater is standing on a hill .', 'A woman walking across a hill with dark clouds in the background .', 'One person with a pink and black striped shirt and white shorts walking up a hill .']
+CIDEr: 0.451
+Best CIDEr example: ['white dog jumps in a field .']
+Worst CIDEr example: ['woman in a black shirt and a woman in a black and white and white shirt .']
+Best CIDEr-4 reference: ['A dog is jumping to catch a Frisbee and casts a perfect shadow .', 'A dog jumps and catches a Frisbee in the grass .', 'A dog jumps and catches a toy .', 'A white dog leaps to catch an object .', 'A yellow lab jumping up to catch a toy .']
+Worst CIDEr-4 reference: ['A couple in an embrace looking at each other .', 'A man and woman are dancing nearby others who are doing the same .', 'A man in a white print shirt and a woman in a black dress dancing .', 'A man in a white shirt is dancing with a woman in black .', 'The red haired woman in the black dress has her arms around a man in white .']
+SPIDEr: 0.226
+Best SPIDEr example: ['white dog jumps in a field .']
+Worst SPIDEr example: ['woman in a black shirt and a woman in a black and white and white shirt .']
+Best CIDEr-4 reference: ['A dog is jumping to catch a Frisbee and casts a perfect shadow .', 'A dog jumps and catches a Frisbee in the grass .', 'A dog jumps and catches a toy .', 'A white dog leaps to catch an object .', 'A yellow lab jumping up to catch a toy .']
+Worst CIDEr-4 reference: ['A couple in an embrace looking at each other .', 'A man and woman are dancing nearby others who are doing the same .', 'A man in a white print shirt and a woman in a black dress dancing .', 'A man in a white shirt is dancing with a woman in black .', 'The red haired woman in the black dress has her arms around a man in white .']

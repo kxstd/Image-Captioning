@@ -1,0 +1,40 @@
+Bleu-1: 0.612
+Best Bleu-1 example: ['man in in the water in the water .']
+Worst Bleu-1 example: ['brown and white dog is jumping into a pool pool .']
+Best Bleu-1 reference: ['A man fly fishes in a large river .', 'A man stands on the edge of the water and holds a fishing pole .', 'A man with a tan hat and jacket is fishing in green waters .', 'one lone fisherman with his line cast out into the river .', "The man is fishing at the water 's edge ."]
+Worst Bleu-1 reference: ['a brown and white dog swimming towards some in the pool', 'A dog in a swimming pool swims toward sombody we cannot see .', 'A dog swims in a pool near a person .', 'Small dog is paddling through the water in a pool .', 'The small brown and white dog is in the pool .']
+Bleu-2: 0.427
+Best Bleu-2 example: ['brown dog is running through a obstacle .']
+Worst Bleu-2 example: ['brown and white dog is jumping into a pool pool .']
+Best Bleu-2 reference: ['a brown dog jumping over a blue and yellow stick .', 'A brown dog jumping over a hurdle .', 'A brown dog jumps over an obstacle .', 'A dog jumps over a hurdle at a competition .', 'The brown dog is jumping a hurdle over a yellow and black pole .']
+Worst Bleu-2 reference: ['a brown and white dog swimming towards some in the pool', 'A dog in a swimming pool swims toward sombody we cannot see .', 'A dog swims in a pool near a person .', 'Small dog is paddling through the water in a pool .', 'The small brown and white dog is in the pool .']
+Bleu-3: 0.286
+Best Bleu-3 example: ['black dogs are playing in a field .']
+Worst Bleu-3 example: ['brown and white dog is jumping into a pool pool .']
+Best Bleu-3 reference: ['A group of dogs runs beside a pond through a field .', 'several multicolored dogs running through the grass .', 'Three black dogs , two with tan markings , are running along grass .', 'Three dogs running through a field .', 'Three dogs run on scrubby grass , a lake and picnic table nearby .']
+Worst Bleu-3 reference: ['a brown and white dog swimming towards some in the pool', 'A dog in a swimming pool swims toward sombody we cannot see .', 'A dog swims in a pool near a person .', 'Small dog is paddling through the water in a pool .', 'The small brown and white dog is in the pool .']
+Bleu-4: 0.189
+Best Bleu-4 example: ['black dogs are playing in a field .']
+Worst Bleu-4 example: ['brown and white dog is jumping into a pool pool .']
+Best Bleu-4 reference: ['A group of dogs runs beside a pond through a field .', 'several multicolored dogs running through the grass .', 'Three black dogs , two with tan markings , are running along grass .', 'Three dogs running through a field .', 'Three dogs run on scrubby grass , a lake and picnic table nearby .']
+Worst Bleu-4 reference: ['a brown and white dog swimming towards some in the pool', 'A dog in a swimming pool swims toward sombody we cannot see .', 'A dog swims in a pool near a person .', 'Small dog is paddling through the water in a pool .', 'The small brown and white dog is in the pool .']
+Rouge: 0.412
+Best Rouge example: ['dog dog is running through a grassy field .']
+Worst Rouge example: ['brown and white dog is jumping into a pool pool .']
+Best Rouge-4 reference: ['A small white dog has on a leash and is walking next to a fence .', 'A white dog is walking down a dirt road .', 'A white dog runs along a path , trailing a leash .', 'A white dog with a loose leash is on a dirt road', 'A white puppy walks down a dirt path trailing his leash on the ground behind him .']
+Worst Rouge-4 reference: ['a brown and white dog swimming towards some in the pool', 'A dog in a swimming pool swims toward sombody we cannot see .', 'A dog swims in a pool near a person .', 'Small dog is paddling through the water in a pool .', 'The small brown and white dog is in the pool .']
+METEOR: 0.184
+Best METEOR example: ['man in a black jacket is standing on the street .']
+Worst METEOR example: ['group of people are sitting in a bench .']
+Best METEOR-4 reference: ['A man in a lime green vest directs traffic', 'A policeman wearing a green vest blows his whistle and moves his arms .', 'A policeman wearing a neon green vest has a whistle in his mouth while directing traffic .', 'A police officer in a yellow vest directs traffic .', 'A traffic director wears a yellow safety suit marked , " Seattle Police . "']
+Worst METEOR-4 reference: ['A group of people are gathered on a white pillared porch for a photo .', 'A group of people are sitting in front of a red brick and white trim building .', 'A group of people are sitting on the porch of a brick building .', 'A group of people gather in front of a red house .', 'A group of ten people posing outside of a classic-style building']
+CIDEr: 0.483
+Best CIDEr example: ['dog dog is running in the grass .']
+Worst CIDEr example: ['brown and white dog is jumping into a pool pool .']
+Best CIDEr-4 reference: ['A dog is jumping to catch a Frisbee and casts a perfect shadow .', 'A dog jumps and catches a Frisbee in the grass .', 'A dog jumps and catches a toy .', 'A white dog leaps to catch an object .', 'A yellow lab jumping up to catch a toy .']
+Worst CIDEr-4 reference: ['a brown and white dog swimming towards some in the pool', 'A dog in a swimming pool swims toward sombody we cannot see .', 'A dog swims in a pool near a person .', 'Small dog is paddling through the water in a pool .', 'The small brown and white dog is in the pool .']
+SPIDEr: 0.241
+Best SPIDEr example: ['dog dog is running in the grass .']
+Worst SPIDEr example: ['brown and white dog is jumping into a pool pool .']
+Best CIDEr-4 reference: ['A dog is jumping to catch a Frisbee and casts a perfect shadow .', 'A dog jumps and catches a Frisbee in the grass .', 'A dog jumps and catches a toy .', 'A white dog leaps to catch an object .', 'A yellow lab jumping up to catch a toy .']
+Worst CIDEr-4 reference: ['a brown and white dog swimming towards some in the pool', 'A dog in a swimming pool swims toward sombody we cannot see .', 'A dog swims in a pool near a person .', 'Small dog is paddling through the water in a pool .', 'The small brown and white dog is in the pool .']
